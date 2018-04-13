@@ -1,0 +1,5 @@
+# jasmine-test
+Unit Testing with Jasmine was fun...
+JASMINETUTORIAL USES A FRIENDLY HTML PAGE SPEC RUNNER, while
+jASMINEFROMSCRATCH USES A COMMANDLINE
+
